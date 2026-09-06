@@ -1,0 +1,6 @@
+{
+  "name": "Your Life, Reflected",
+  "description": "A mindful journaling app that silently analyzes personal reflections and visually maps them into empathetic storyboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
